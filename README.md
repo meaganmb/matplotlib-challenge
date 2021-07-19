@@ -1,4 +1,4 @@
 # Matplotlib-challenge
 This is the matplotlib week 5 homework in the UCI Data Analytics Bootcamp.
 
-# Data Observation
+## Data Observation (also in .ipynb file)
